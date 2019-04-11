@@ -15,7 +15,7 @@ public class IntegrationTest {
 	public void user_enters_and(String username, String password) throws Throwable {
 		
 		System.out.println(username+password);
-		System.out.println(password);
+		System.out.println(password+username);
 
 	}
 
